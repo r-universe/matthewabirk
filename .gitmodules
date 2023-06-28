@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "birk"]
 	path = birk
 	url = https://github.com/cran/birk
-	shallow = true
-	registered = true
 [submodule "measurements"]
 	path = measurements
 	url = https://github.com/cran/measurements
-	shallow = true
-	registered = true
 [submodule "presens"]
 	path = presens
 	url = https://github.com/cran/presens
-	shallow = true
-	registered = true
 [submodule "respirometry"]
 	path = respirometry
 	url = https://github.com/cran/respirometry
-	shallow = true
-	registered = true
